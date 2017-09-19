@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Her evil uncle has taken the power
+>>>>>>> 9fe38bb364800bf5366ab02a4473a429865d29a2
 =======
 Her evil uncle has taken the power
 >>>>>>> 9fe38bb364800bf5366ab02a4473a429865d29a2
